@@ -6,9 +6,12 @@ Pour accéder directement à l'environnement, il suffit de se rendre à l'adress
 https://mybinder.org/v2/gh/temahukn/DDUJupyter/master
 # Version de Python et librairies
 Ce dépôt spécifie la version 3.7 de Python ainsi que les librairies suivantes :
--numpy
--scipy
--matplotlib
+  -numpy
+  -scipy
+  -matplotlib
+  -pandas
+  -ipysheet
+  -ipywidgets
 # Jupyter et Binder
 [Jupyter](https://jupyter.org/) est un environnement multi-langages (Python, R, javascript, etc.) fonctionnant comme une application web.
 
