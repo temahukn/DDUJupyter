@@ -1,8 +1,7 @@
 numpy
 scipy
 matplotlib
+plotly
 pandas
 ipysheet
 ipywidgets
-librosa
-ffmpeg-python
