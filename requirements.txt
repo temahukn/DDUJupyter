@@ -5,3 +5,4 @@ pandas
 ipysheet
 ipywidgets
 librosa
+ffmpeg-python
