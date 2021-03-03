@@ -5,3 +5,4 @@ plotly
 pandas
 ipysheet
 ipywidgets
+opencv-contrib-python
