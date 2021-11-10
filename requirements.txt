@@ -1,6 +1,6 @@
 numpy
 scipy
-matplotlib
+jupyter-matplotlib
 plotly
 pandas
 ipysheet
