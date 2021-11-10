@@ -1,7 +1,7 @@
 numpy
 scipy
 matplotlib
-ipython
+Ipython
 plotly
 pandas
 ipysheet
