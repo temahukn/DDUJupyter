@@ -1,9 +1,7 @@
 numpy
 scipy
 matplotlib
-ipympl
 plotly
 pandas
 ipysheet
 ipywidgets
-jupyter-matplotlib
