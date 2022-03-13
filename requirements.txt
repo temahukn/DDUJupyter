@@ -6,5 +6,5 @@ plotly
 pandas
 ipysheet
 ipywidgets
-ipyml
+ipympl
 nodejs
