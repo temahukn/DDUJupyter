@@ -6,3 +6,4 @@ plotly
 pandas
 ipysheet
 ipywidgets
+jupyter-matplotlib
